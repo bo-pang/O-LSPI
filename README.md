@@ -10,11 +10,11 @@ Implements the main O-LSPI algorithm.
 ## func_data_collect.m
 Implements the data collection step for the learning algorithm.
 
-## data_collect_Noise_Mag.m and Noise_Mag_exp.m
+## data_collect_Noise_Mag.m & Noise_Mag_exp.m
 Collects the data for the experiment in the paper.
 
 ## draw_picture.m
 Draws the Fig. 1 in the paper.
 
-## kronv.m, vec2sm.m and sm2vec.m
+## kronv.m, vec2sm.m & sm2vec.m
 Auxilliary functions for vector/matrix conversions.
